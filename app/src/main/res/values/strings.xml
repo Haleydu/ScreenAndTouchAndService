@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application Service</string>
+    <string name="test">test</string>
+    <string name="screenshot">截屏</string>
+    <string name="startservice">开始服务</string>
+    <string name="stopservice">停止服务</string>
+</resources>
